@@ -8,7 +8,7 @@ Di Projek ini saya mencoba membuat serapih mungkin untuk memudahkan meng custom 
 
 - Responsive Website
 - Carousel image
-- More Animation
+- More Animation (Still progress)
 
 
 
