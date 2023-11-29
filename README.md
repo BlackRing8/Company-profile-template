@@ -1,14 +1,14 @@
 
 # Template Website Company Profile
 
-Di Projek ini saya mencoba membuat serapih mungkin untuk memudahkan meng custom code didalamnya. projek ini dibuat dengan framework tailwind, buat kalian yang ingin belajar framework tailwind bisa gunakan template ini. Masih akan terus dikembangkan, Jika Mau berkontribusi gas.
+ Projek ini saya coba buat serapih mungkin untuk memudahkan meng custom code didalamnya. projek ini dibuat dengan UI framework tailwind. Masih dikembangkan, Jika Mau berkontribusi gas.
 
 
 ## Features
 
 - Responsive Website
 - Carousel image
-- More Animation
+- More Animation(Still progress)
 
 
 
@@ -31,7 +31,6 @@ Run Project
 ```bash
   npm run dev
 ```
-
 
 ## Preview
 
